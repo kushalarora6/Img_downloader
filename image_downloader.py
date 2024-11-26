@@ -21,8 +21,8 @@ def download_images(keywords, limit):
 
 def send_email(recipient_email, subject, body, image_paths):
     # Set your email and password here
-    sender_email = "srajput_be23@thapar.edu"
-    sender_password = "mnbvc345"
+    sender_email = "karora22_be22@thapar.edu"
+    sender_password = "9464022209"
 
     # Create the email
     msg = MIMEMultipart()
